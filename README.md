@@ -8,6 +8,8 @@
 <p align="center">
   <a href="#title">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#preview">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rodando">Rodando o App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#license">Licença</a>
 </p>
@@ -27,6 +29,31 @@
   <img alt="Screen2" title="#Screen2" src="./github/screen2.png" width="250" />
   <img alt="Screen3" title="#Screen3" src="./github/screen3.png" width="250" />
 </div>
+
+<h2 id="requisitos">:hammer: Pré-requisitos</h2>
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.io/),
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+<h2 id="rodando">:game_die: Rodando o Aplicativo</h2>
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/ErikPervious/iClimate.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd iClimate
+
+# Instale o projeto na sua máquina
+$ yarn install
+
+# Execute a aplicação
+$ yarn start
+
+# Ou use o próprio Expo
+$ expo start
+```
 
 <h2 id="technologies">✨ Tecnologias</h2>
 
