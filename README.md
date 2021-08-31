@@ -20,7 +20,7 @@
 
 <p>&nbsp;Você não precisa ter conhecimento algum para participar, pois ele sempre ensina do zero ao app ou seja, você consegue fazer sem saber nada de programação e assim que finalizar você vai ter uma vasta experiência na área.</p>
 
-<p>&nbsp;No Insider 2.0 a proposta foi criar um aplicativo mobile(android/ios) onde você ver a temperatura e algumas informações sobre o clima na sua região, além de poder também pesquisar o clima em outras regiões.</p>
+<p>&nbsp;No Insider 2.0 a proposta foi criar um aplicativo mobile(android/ios) onde você pode ver a temperatura e algumas informações sobre o clima na sua região, além de poder também pesquisar o clima em outras regiões.</p>
 
 <h2 id="preview">🔖 Layout</h2>
 
