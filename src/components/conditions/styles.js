@@ -8,7 +8,8 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         width: '95%',
         justifyContent: 'space-around',
-        borderRadius:  8
+        borderRadius:  8,
+        borderTopLeftRadius: 0
     },
     condition: {
         alignItems: 'center',

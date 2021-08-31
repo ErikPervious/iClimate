@@ -67,7 +67,7 @@ export default function Search() {
                     colors={['#1ed6ff', '#97c1ff']}
                 >
                     <Text style={styles.date}>{city.date}</Text>
-                    <Text style={styles.city}>{city.name}</Text>
+                    <Text style={styles.city}>{city.city_name}</Text>
                     <View>
                         <Text style={styles.temp}>{city.temp}º</Text>
                     </View>
@@ -83,7 +83,10 @@ export default function Search() {
         <SafeAreaView style={styles.container}>
             <TouchableOpacity
                 style={styles.backButton}
-                onPress={() => navigation.navigate('Home')}
+                onPress={() => {
+                    Keyboard.dismiss();
+                    navigation.navigate('Home');
+                }}
             >
                 <Feather name="chevron-left" size={32} color="#000" />
                 <Text style={{fontSize: 22}}>Voltar</Text>

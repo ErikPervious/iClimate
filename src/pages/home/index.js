@@ -35,7 +35,6 @@ export default function Home() {
             let location = await Location.getCurrentPositionAsync({accuracy:Location.Accuracy.High});
             
             const response = await api.get(`/weather?key=${key}&lat=${location.coords.latitude}&lon=${location.coords.longitude}`);
-            console.log(response.data);
             setWeather(response.data.results);
 
             if(response.data.results.currently === 'noite') {

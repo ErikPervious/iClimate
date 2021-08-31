@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
         flex: 1,
         alignItems: 'center',
         backgroundColor: '#E8F0FF',
-        padding: '10%',
+        paddingTop: '10%',
     },
     backButton: {
         flexDirection: 'row',
