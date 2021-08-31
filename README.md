@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="banner" title="banner" src="./github/banner.png" />
+  <img alt="banner" title="banner" src="https://user-images.githubusercontent.com/51729214/131563191-a468347b-ad45-46bb-aefa-f23aa3357905.png" />
   <p></p>
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=1ED6FF&labelColor=000000">
   <img src="https://img.shields.io/static/v1?label=Insider&message=2.0&color=1ED6FF&labelColor=000000" alt="Insider 2.0" />
